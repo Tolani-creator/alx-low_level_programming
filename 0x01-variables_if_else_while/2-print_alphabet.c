@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 /**
 * main - lowercase alphabets
@@ -6,7 +7,7 @@
 */
 int main(void)
 {
- char c;
+char c;
 for (c = 'a'; c <= 'z'; c++)
 putchar(c);
 putchar('\n');
