@@ -1,4 +1,27 @@
-include "main.h"
+Task 6.txt
+Who has access
+A
+System properties
+Type
+Text
+Size
+496 bytes
+Storage used
+496 bytes
+Location
+0x06-pointers_arrays_strings
+Owner
+Antony Bahati
+Modified
+21 Sept 2022 by Antony Bahati
+Opened
+20:42 by me
+Created
+21 Sept 2022
+No description
+Viewers can download
+
+#include "main.h"
 
 /**
  * cap_string - capitalizes all words in a string
